@@ -1,0 +1,7 @@
+#swapping of two numbers                   a=int(input('enter a value '))
+b=int(input ('enter b value'))
+c=a
+a=b
+b=c
+Print ('a:', a)
+Print ('b:', b)
