@@ -1,0 +1,10 @@
+# write a program to print all the arithmetic operations.  a=int(input (enter a value ))
+b=int(input (enter b value ))
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+print (c)
+Print (d)
+Print (e)
+Print (f)
