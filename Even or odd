@@ -1,0 +1,6 @@
+#write a program to print given number is #even or odd number
+n=int(input())
+if(n%2==0):
+ print('This is even number')
+else:
+	print('This is odd number')
