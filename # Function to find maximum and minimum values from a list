@@ -1,0 +1,9 @@
+# Function to find maximum and minimum values from a list
+def find_max_min(input_list):
+    max_value = max(input_list)
+    min_value = min(input_list)
+    return max_value, min_value
+input_list = [3, 7, 1, 9, 5, 2, 8, 4]
+max_value, min_value = find_max_min(input_list)
+print("Maximum Value:", max_value)
+print("Minimum Value:", min_value)
